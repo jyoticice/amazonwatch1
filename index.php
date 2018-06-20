@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.amazon.com/G-shock-DW5600E-1V-Black-Resin-Sport/dp/B000GAYQKY");
 die();
 ?>
